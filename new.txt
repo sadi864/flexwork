@@ -1,0 +1,19 @@
+flex work for {new.html}
+
+
+
+display: flex;
+display;flex-end;          [display for flex]
+display;flex-start;
+
+
+
+
+flex-direction:row;
+                          [how the box will show]
+flex-direction:column;
+
+
+order:1;
+order:2;                 [shifting the box]
+order:3;
